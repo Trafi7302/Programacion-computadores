@@ -48,7 +48,7 @@ int main(){
                 puntos += (precio/30);
             }
         }
-        printf("Puntos totales: %d\n", puntos);
+        printf("Puntos acumulados en esta compra: %d\n", puntos);
     }
 
     return 0;
